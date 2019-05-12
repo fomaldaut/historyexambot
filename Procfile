@@ -1,1 +1,1 @@
-worker: python bot2.0.py
+worker: python historyexambot_heroku.py
